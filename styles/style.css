@@ -9,7 +9,7 @@ body {
 header {
   min-width: 1440px;
   margin: 0 auto;
-  padding: 50px 50px;
+  padding: 89px 50px;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   justify-items: center;
@@ -70,7 +70,7 @@ address {
 }
 
 main {
-  padding: 50px 0px;
+  padding: 12px 0px;
 }
 
 .cover {
@@ -298,7 +298,7 @@ main {
 .footer {
   margin: 0 auto;
   min-width: 1440px;
-  padding: 136px 50px;
+  padding: 176px 50px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
